@@ -1,0 +1,11 @@
+# Ignore files without extension
+*
+!*.*
+!*/
+
+# Compiled python files
+__pycache__/
+*.pyc
+
+# Mac system files
+.DS_Store
