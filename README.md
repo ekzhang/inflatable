@@ -1,7 +1,7 @@
-# 3-Inflatable Permutations
+# Limit Densities of Patterns in Permutation Inflations
 
 This code computes densities of patterns in the inflations of permutations with
-formulas in [On 3-Inflatable Permutations](https://arxiv.org/abs/1809.08490).
+formulas in [Limit Densities of Patterns in Permutation Inflations](https://arxiv.org/abs/1809.08490).
 It also includes optimized programs to search for examples of permutations in
 the `search/` directory, as well as an empirical verification through random
 simulations.
